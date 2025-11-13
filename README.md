@@ -58,3 +58,6 @@ Model B: Implementasi Random Forest (Blok 2b & Inferensi)
 3. Inferensi Interaktif (Testing)
 - Proses Identik: Logika inferensi, termasuk pengisian fitur agregasi dengan placeholder mean, diulang menggunakan pipeline Random Forest yang tersimpan (maintenance_pipeline_rf_knn.pkl).
 - Perbandingan: Hasil prediksi RF ini memungkinkan pengguna membandingkan keputusan dan tingkat kepercayaan (probabilitas) antara kedua model pada kondisi operasional mesin yang sama.
+
+
+Link docker: https://hub.docker.com/repository/docker/rmbeng/modelprediksi/tags
